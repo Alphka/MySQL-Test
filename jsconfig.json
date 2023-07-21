@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"module": "NodeNext",
+		"target": "ESNext",
+		"checkJs": true,
+		"strict": true,
+		"noImplicitAny": false,
+		"strictNullChecks": false,
+		"resolveJsonModule": true,
+		"lib": ["ESNext"],
+		"noEmit": true
+	},
+	"exclude": [
+		"node_modules"
+	],
+	"typeAcquisition": {
+		"enable": true
+	}
+}

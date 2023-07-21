@@ -1,0 +1,20 @@
+{
+	"name": "mysql-test",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "nodemon"
+	},
+	"devDependencies": {
+		"@types/express": "^4.17.17",
+		"@types/mysql": "^2.15.21",
+		"@types/node": "^20.4.3",
+		"nodemon": "^3.0.1"
+	},
+	"dependencies": {
+		"dotenv": "^16.3.1",
+		"express": "^4.18.2",
+		"mysql": "^2.18.1"
+	},
+	"type": "module"
+}
