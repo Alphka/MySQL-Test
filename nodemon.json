@@ -1,0 +1,12 @@
+{
+	"$schema": "https://json.schemastore.org/nodemon.json",
+	"watch": [
+		"src"
+	],
+	"ignore": [
+		"node_modules",
+		".editorconfig"
+	],
+	"ext": "js,json",
+	"exec": "node ."
+}
